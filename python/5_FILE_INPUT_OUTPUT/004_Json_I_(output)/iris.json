@@ -1,0 +1,23 @@
+[
+  {
+    "class": "Iris-setosa",
+    "petallength": 1.4,
+    "petalwidth": 0.2,
+    "sepallength": 5.1,
+    "sepalwidth": 3.5
+  },
+  {
+    "class": "Iris-versicolor",
+    "petallength": 4.7,
+    "petalwidth": 1.4,
+    "sepallength": 7,
+    "sepalwidth": 3.2
+  },
+  {
+    "class": "Iris-virginica",
+    "petallength": 6,
+    "petalwidth": 2.5,
+    "sepallength": 6.3,
+    "sepalwidth": 3.3
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "prizes": [
+    {
+      "year": "2020",
+      "category": "chemistry",
+      "laureates": [
+        {
+          "id": "991",
+          "firstname": "Emmanuelle",
+          "surname": "Charpentier",
+          "motivation": "\"for the development of a method for genome editing\"",
+          "share": "2"
+        },
+        {
+          "id": "992",
+          "firstname": "Jennifer A.",
+          "surname": "Doudna",
+          "motivation": "\"for the development of a method for genome editing\"",
+          "share": "2"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "category": "economics",
+      "laureates": [
+        {
+          "id": "995",
+          "firstname": "Paul",
+          "surname": "Milgrom",
+          "motivation": "\"for improvements to auction theory and inventions of new auction formats\"",
+          "share": "2"
+        },
+        {
+          "id": "996",
+          "firstname": "Robert",
+          "surname": "Wilson",
+          "motivation": "\"for improvements to auction theory and inventions of new auction formats\"",
+          "share": "2"
+        }
+      ]
+    }
+  ]
+}
